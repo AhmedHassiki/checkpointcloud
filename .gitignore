@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+# /.env
+# /.API Google Maps.txt
 
 # testing
 /coverage
